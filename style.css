@@ -1,0 +1,15 @@
+main{
+    display: grid;
+    grid-template-columns: 25% 75%;
+    max-width: 100rem;
+    height: 80rem;
+}
+h1{
+    text-align: center;
+    color:  red;
+    font-size: 3rem;
+}
+
+#bus-aside{
+    background-color: black;
+}
